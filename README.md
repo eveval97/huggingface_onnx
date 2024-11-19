@@ -1,9 +1,3 @@
-# Using 🤗 Hugging Face with ONNX
-
-This repository contains example notebooks to work with ONNX using 🤗 Hugging Face libraries and tools. It is part of the [Duke University MLOps Coursera Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
-
-## Exercise
-
 This repository is ready to use with GitHub Codespaces. All dependencies will be installed and the notebooks will be ready to use. If you are running this locally and without Codespaces, you'll need to follow these steps:
 
 1. Create a new Conda environment and install the dependencies listed in `environment.yml`
@@ -29,11 +23,4 @@ There are a few sources that are useful to dive deeper into working with ONNX an
 - [Main ONNX landing page ](https://onnx.ai/)
 - [ONNX documentation](https://learn.microsoft.com/azure/machine-learning/concept-onnx?WT.mc_id=academic-0000-alfredodeza)
 
-**Related Coursera courses**
-- [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke)
-- [Open Source Platforms for MLOps](https://www.coursera.org/learn/open-source-platforms-duke)
-- [Python Essentials for MLOps](https://www.coursera.org/learn/python-essentials-mlops-duke)
-- [Web Applications and Command-Line tools for Data Engineering](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke)
-- [Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke)
-- [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke)
 
